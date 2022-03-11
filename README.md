@@ -1,5 +1,8 @@
 # Gesture-Sign-Language-recognition-model
 youtube video as input
+It's work on my desktop, But I can't ensure work it on your desktop. 
+because these file are uploaded by my hand  
+not using git in terminal, I try it of course, but it don't work
 
 ## reference
 gesture recognition : https://github.com/kairess/gesture-recognition
